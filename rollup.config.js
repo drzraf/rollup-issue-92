@@ -1,5 +1,3 @@
-// npm i rollup @rollup/plugin-inject rollup-plugin-commonjs
-// ./node_modules/.bin/rollup -c
 import path from 'path';
 import commonjs from 'rollup-plugin-commonjs';
 import inject from '@rollup/plugin-inject';
