@@ -14,6 +14,7 @@
     {
         module.exports.default = class MyClass extends myparent_1 {
             constructor() {
+                super();
             }
         };
     }
